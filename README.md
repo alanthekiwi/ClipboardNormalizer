@@ -16,7 +16,7 @@ This program was written specifically to run on Windows platforms. I have not te
 
 ### Extra
 
-If you're on windows, you can rename the `.py` extension to `.pyw` to hidee the console because this application is meant to be a headless one.
+If you're on windows, you can rename the `.py` extension to `.pyw` to hide the console because this application is meant to be a headless one.
 
 If you're planning to freeze the source to an executable. I'd recommend [PyInstaller](https://www.pyinstaller.org/).
 Run the following command for the best results:
